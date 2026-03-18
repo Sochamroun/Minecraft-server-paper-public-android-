@@ -1,11 +1,11 @@
 ## Minecraft-server-paper-public-android
 របៀបបង្កើត server Minecraft paper free ហើយ public ip address free
 
-## ទីមួយ
+## 1️⃣ទីមួយ
 ## https://github.com/termux/termux-app/tags
 ---
 
-#ទីពី nano run.sh
+##2️⃣ទីពី nano run.sh
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -41,7 +41,7 @@ echo "Test with: yt-dlp --version"
 ./run.sh
 ```
 ---
-# ទីបី nano servers.sh
+## 3️⃣ទីបី nano servers.sh
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -167,7 +167,7 @@ echo ""
 echo "📺 Open console:"
 echo " $SERVERNAME"
 ```
-# chmod +x servers.sh
+## chmod +x servers.sh
 ```bash
 ./servers.sh
 ```
@@ -179,24 +179,24 @@ echo " $SERVERNAME"
 ### wget ឬ git clone សម្រាប់ទាញយក project របស់គេយកមកប្រើ
 ### ls វាជា command សម្រាប់បង្ហាញ folder ដែលមាន ក្នុង termux និង Linux os ផ្សេងៗ
 ---
-# របៀបបើក server Minecraft ទៅជា public ដោយ playit-gg 
+## របៀបបើក server Minecraft ទៅជា public ដោយ playit-gg 
 ## ប្រើ ubuntu ដើម្បី run playit-gg សម្រាប់ termux 
-# https://playit.gg/
+## https://playit.gg/
 ---
-# ទីមួយ install ubuntu ក្នុង termux 
+## ទីមួយ install ubuntu ក្នុង termux 
 ```bash
 pkg update && pkg upgrade
 pkg install proot-distro
 ```
-# ទីពីរប្រើ proot-distro ដើម្បី install ubuntu
+## ទីពីរប្រើ proot-distro ដើម្បី install ubuntu
 ```bash
 proot-distro install ubuntu
 ```
-# ទីបី login ចូល ubuntu
+## ទីបី login ចូល ubuntu
 ```bash
 proot-distro login ubuntu
 ```
-# ទីបួន update ubuntu
+## ទីបួន update ubuntu
 ```bash
 apt update && apt upgrade -y
 apt install wget curl -y
@@ -208,7 +208,7 @@ apt install wget curl -y
 wget https://github.com/playit-cloud/playit-agent/releases/latest/download/playit-linux-aarch64
 chmod +x playit-linux-aarch64
 ```
-# ទីប្រាំមួយ run playit-gg 
+## ទីប្រាំមួយ run playit-gg 
 ```bash
 ./playit-linux-aarch64
 ```
