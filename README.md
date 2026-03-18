@@ -1,8 +1,8 @@
-# Minecraft-server-paper-public-android
+## Minecraft-server-paper-public-android
 របៀបបង្កើត server Minecraft paper free ហើយ public ip address free
 
-# ទីមួយ
-# https://github.com/termux/termux-app/tags
+## ទីមួយ
+## https://github.com/termux/termux-app/tags
 ---
 
 #ទីពី nano run.sh
