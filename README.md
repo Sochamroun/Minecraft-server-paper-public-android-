@@ -1,11 +1,11 @@
 ## Minecraft-server-paper-public-android
 របៀបបង្កើត server Minecraft paper free ហើយ public ip address free
 
-## 1️⃣ទីមួយ
+## ទីមួយ
 ## https://github.com/termux/termux-app/tags
 ---
 
-##2️⃣ទីពី nano run.sh
+## ទីពី nano run.sh
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -41,7 +41,7 @@ echo "Test with: yt-dlp --version"
 ./run.sh
 ```
 ---
-## 3️⃣ទីបី nano servers.sh
+## ទីបី nano servers.sh
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
