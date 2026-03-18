@@ -219,7 +219,6 @@ chmod +x playit-linux-aarch64
 ## រៀបចំដោយ Sochamroun
 ### Gmail: chhemsochamroeun@gmail.com 
 ### Facebook: Hang Slow
-# photo
-![Photo](https://raw.githubusercontent.com/Sochamroun/b6348fb9c4d244047888e5ee3ed555e8.jpg)
+![image alt](https://github.com/Sochamroun/Minecraft-server-paper-public-android-/blob/3577aa882e394adf6a08a4d2991a24844cdd8cb3/b6348fb9c4d244047888e5ee3ed555e8.jpg)
 
 
