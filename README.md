@@ -220,6 +220,6 @@ chmod +x playit-linux-aarch64
 ### Gmail: chhemsochamroeun@gmail.com 
 ### Facebook: Hang Slow
 # photo
-
+![Photo](https://raw.githubusercontent.com/Sochamroun/b6348fb9c4d244047888e5ee3ed555e8.jpg)
 
 
