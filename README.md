@@ -175,4 +175,46 @@ echo " $SERVERNAME"
 
 ## ចំណាំ command 
 ### chmod +x name.sh ជាការអនុញ្ញាតឲ្យដំណើរការ run script 
+### cd ~/name folder ជាបើក folder 📁 តាមបែប Linux os
+### wget ឬ git clone សម្រាប់ទាញយក project របស់គេយកមកប្រើ
+### ls វាជា command សម្រាប់បង្ហាញ folder ដែលមាន ក្នុង termux និង Linux os ផ្សេងៗ
+---
+# របៀបបើក server Minecraft ទៅជា public ដោយ playit-gg 
+## ប្រើ ubuntu ដើម្បី run playit-gg សម្រាប់ termux 
+# https://playit.gg/
+---
+# ទីមួយ install ubuntu ក្នុង termux 
+```bash
+pkg update && pkg upgrade
+pkg install proot-distro
+```
+# ទីពីរប្រើ proot-distro ដើម្បី install ubuntu
+```bash
+proot-distro install ubuntu
+```
+# ទីបី login ចូល ubuntu
+```bash
+proot-distro login ubuntu
+```
+# ទីបួន update ubuntu
+```bash
+apt update && apt upgrade -y
+apt install wget curl -y
+```
+# ទីប្រាំ install playit-linux-aarch64 
+## ចំណាំ playit-linux-aarch64 មានច្រើនប្រភេទចូលមើល
+## https://playit.gg/download/linux
+```bash
+wget https://github.com/playit-cloud/playit-agent/releases/latest/download/playit-linux-aarch64
+chmod +x playit-linux-aarch64
+```
+# ទីប្រាំមួយ run playit-gg 
+```bash
+./playit-linux-aarch64
+```
+# ចូលមើលពីរ របៀបបង្កើត account playit-gg ក្នុង YouTube 
+## 📺 Video Tutorial
+[![Watch](https://img.youtube.com/vi/itVVhcid2_Q/0.jpg)](https://youtu.be/itVVhcid2_Q)
+---
+
 
