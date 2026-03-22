@@ -172,7 +172,7 @@ echo " $SERVERNAME"
 ./servers.sh
 ```
 ---
-## ដើម្បី run server ត្រូវសរសេរ ./ ឈ្មោះដែលបានដាក់.sh EX:(name oggy)
+## ដើម្បី run server ឈ្មោះ EX:(name oggy) នោះបាន
 ```bash
 ./oggy.sh
 ```
