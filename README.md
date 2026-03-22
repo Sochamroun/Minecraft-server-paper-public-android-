@@ -1,7 +1,7 @@
 ## Minecraft-server-paper-public-android
 របៀបបង្កើត server Minecraft paper free ហើយ public ip address free
 
-## ទីមួយ Install Termux ក្នុង Android. Link
+## ទីមួយ Install Termux ក្នុង Android
 ## https://github.com/termux/termux-app/tags
 ---
 
