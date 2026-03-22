@@ -1,11 +1,11 @@
 ## Minecraft-server-paper-public-android
 របៀបបង្កើត server Minecraft paper free ហើយ public ip address free
 
-## ទីមួយ
+## ទីមួយ Install Termux ក្នុង Android. Link
 ## https://github.com/termux/termux-app/tags
 ---
 
-## ទីពី nano run.sh
+## ទីពីបង្កើត File nano run.sh
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -41,14 +41,14 @@ echo "Test with: yt-dlp --version"
 ./run.sh
 ```
 ---
-## ទីបី nano servers.sh
+## ទីបីបងើ្កត script Setup server nano servers.sh
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
 clear
 echo "===================================="
 echo " 📁Minecraft Paper Server Free"
-echo " 🌐Termux Auto Setup by Roun"
+echo " 🌐Termux Auto Setup by Roun⚙️"
 echo "===================================="
 
 sleep 2
@@ -172,7 +172,7 @@ echo " $SERVERNAME"
 ./servers.sh
 ```
 ---
-
+##ដើម្បី run server ត្រូវសរសេរ ./ ឈ្មោះដែលបានដាក់.sh (name oggy = ./oggy.sh
 ## ចំណាំ command 
 ### chmod +x name.sh ជាការអនុញ្ញាតឲ្យដំណើរការ run script 
 ### cd ~/name folder ជាបើក folder 📁 តាមបែប Linux os
