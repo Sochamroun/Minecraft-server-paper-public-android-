@@ -177,12 +177,7 @@ echo " $SERVERNAME"
 ./oggy.sh
 ```
 ---
-## ចំណាំ command 
-### chmod +x name.sh ជាការអនុញ្ញាតឲ្យដំណើរការ run script 
-### cd ~/name folder ជាបើក folder 📁 តាមបែប Linux os
-### wget ឬ git clone សម្រាប់ទាញយក project របស់គេយកមកប្រើ
-### ls វាជា command សម្រាប់បង្ហាញ folder ដែលមាន ក្នុង termux និង Linux os ផ្សេងៗ
----
+
 ## របៀបបើក server Minecraft ទៅជា public ដោយ playit-gg 
 ## ប្រើ ubuntu ដើម្បី run playit-gg សម្រាប់ termux 
 ## https://playit.gg/
