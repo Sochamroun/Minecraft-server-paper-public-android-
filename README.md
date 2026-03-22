@@ -200,9 +200,10 @@ proot-distro login ubuntu
 apt update && apt upgrade -y
 apt install wget curl -y
 ```
-# ទីប្រាំ install playit-linux-aarch64 
-## ចំណាំ playit-linux-aarch64 មានច្រើនប្រភេទចូលមើល
+## ទីប្រាំ install playit-linux-aarch64 
+## ចំណាំ playit-gg មានច្រើនប្រភេទចូលមើល
 ## https://playit.gg/download/linux
+## ដូចនេះខ្ញុំសុំលើយក playit-linux-aarch64
 ```bash
 wget https://github.com/playit-cloud/playit-agent/releases/latest/download/playit-linux-aarch64
 chmod +x playit-linux-aarch64
