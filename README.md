@@ -172,7 +172,11 @@ echo " $SERVERNAME"
 ./servers.sh
 ```
 ---
-##ដើម្បី run server ត្រូវសរសេរ ./ ឈ្មោះដែលបានដាក់.sh (name oggy = ./oggy.sh
+##ដើម្បី run server ត្រូវសរសេរ ./ ឈ្មោះដែលបានដាក់.sh EX:(name oggy)
+```bash
+./oggy.sh
+```
+---
 ## ចំណាំ command 
 ### chmod +x name.sh ជាការអនុញ្ញាតឲ្យដំណើរការ run script 
 ### cd ~/name folder ជាបើក folder 📁 តាមបែប Linux os
