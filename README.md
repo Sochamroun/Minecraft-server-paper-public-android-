@@ -216,7 +216,7 @@ chmod +x playit-linux-aarch64
 ## 📺 Video Tutorial
 [![Watch](https://img.youtube.com/vi/itVVhcid2_Q/0.jpg)](https://youtu.be/itVVhcid2_Q)
 ---
-## រៀបចំដោយ Sochamroun
+## projectគុណភាព រៀបចំដោយSochamroun
 ### Gmail: chhemsochamroeun@gmail.com 
 ### Facebook: Hang Slow
 ![image alt](https://github.com/Sochamroun/Minecraft-server-paper-public-android-/blob/3577aa882e394adf6a08a4d2991a24844cdd8cb3/b6348fb9c4d244047888e5ee3ed555e8.jpg)
