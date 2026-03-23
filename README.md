@@ -216,6 +216,12 @@ chmod +x playit-linux-aarch64
 ## 📺 Video Tutorial
 [![Watch](https://img.youtube.com/vi/itVVhcid2_Q/0.jpg)](https://youtu.be/itVVhcid2_Q)
 ---
+## recommend join server
+### តាម Lan ip WiFi
+```bash
+ifconfig
+```
+
 ## projectគុណភាព រៀបចំដោយSochamroun
 ### Gmail: chhemsochamroeun@gmail.com 
 ### Facebook: Hang Slow
