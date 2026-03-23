@@ -221,7 +221,9 @@ chmod +x playit-linux-aarch64
 ```bash
 ifconfig
 ```
-
+![image alt](https://github.com/Sochamroun/Minecraft-server-paper-public-android-/blob/e84a1fb7b4209240b302065cf1ca7eb84b7db6a4/Screenshot_20260323-193644.jpg)
+### កន្លែងនោះជា ip សម្រាប់ដាក់ក្នុង Minecraft Game ដើម្បី join server 
+---
 ## projectគុណភាព រៀបចំដោយSochamroun
 ### Gmail: chhemsochamroeun@gmail.com 
 ### Facebook: Hang Slow
